@@ -1,5 +1,3 @@
-![1](https://github.com/user-attachments/assets/d148d843-4b74-401c-8009-97a237e2a640)
-
 # PenDrop: A Personal SwiftUI Focus Timer with Water Wave
 
 PenDrop is a personal iOS project developed using SwiftUI, implementing a visually unique Pomodoro-style focus timer. It features a dynamic animated water wave that intuitively displays session progress, built as a hands-on exercise in modern iOS UI development. This project serves as a demonstration of SwiftUI concepts and building custom UI elements.
